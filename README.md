@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Pokedei
+
+¿How to get the pokedei?
 
 1. Download or clone the repo
 
