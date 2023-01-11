@@ -2,7 +2,7 @@
 
 1. Download or clone the repo
 
-3. Go to the project directory, then you can run:
+3. Go to the project directory in the command prompt, execute:
 
    ### `npm install`
 
