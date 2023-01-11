@@ -1,10 +1,11 @@
 # Pokedei  
 [![pokeball](https://cdn3.emoji.gg/emojis/pokeball.png)](https://emoji.gg/emoji/pokeball)
 
-¿How to get the pokedei?
-
+Demo of the app
 
 ![imagen](https://user-images.githubusercontent.com/44687875/211865057-a65b19ab-07af-4212-a1ec-9b929a9957a5.png)
+
+¿How to get the pokedei?
 
 1. Download or clone the repo
 
