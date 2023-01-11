@@ -4,11 +4,10 @@
 
 2. Go to the project directory, then you can run:
 
-### `npm start`
+   ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) to view the app in dev mode.
 
-Then you will see the project
+4. Enjoy
 
 
