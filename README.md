@@ -4,6 +4,10 @@
 
 3. Go to the project directory, then you can run:
 
+   ### `npm install`
+
+   then
+
    ### `npm start`
 
 3. Open [http://localhost:3000](http://localhost:3000) to view the app in dev mode.
