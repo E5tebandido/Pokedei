@@ -12,7 +12,7 @@
 
    ### `npm start`
    
-   ![imagen](https://user-images.githubusercontent.com/44687875/211866789-e03a0681-79be-469a-8dc7-0ad122e97ef8.png)
+   ![imagen](https://user-images.githubusercontent.com/44687875/211866949-ee99dbf3-a9e6-4f62-982c-fffe721b541c.png)
 
 
 3. Open [http://localhost:3000](http://localhost:3000) to view the app in dev mode.
