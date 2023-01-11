@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import Pmanager from './Pmanager';
 import Description from './Description';
 import reportWebVitals from './reportWebVitals';
