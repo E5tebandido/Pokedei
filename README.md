@@ -14,9 +14,9 @@
 
 3. Open [http://localhost:3000](http://localhost:3000) to view the app in dev mode.
 
-4. Add /Pokemon to [http://localhost:3000](http://localhost:3000) 
+4. Add /Pokemon to [http://localhost:3000](http://localhost:3000) as follows 
 
-   Example: [http://localhost:3000](http://localhost:3000)/Pokemon 
+   ### `[npm install](http://localhost:3000)/Pokemon)`
 
 5. Enjoy
 
