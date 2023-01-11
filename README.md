@@ -2,7 +2,7 @@
 
 1. Download or clone the repo
 
-2. Go to the project directory, then you can run:
+3. Go to the project directory, then you can run:
 
    ### `npm start`
 
