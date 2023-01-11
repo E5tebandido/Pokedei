@@ -16,7 +16,7 @@
 
 4. Add /Pokemon to [http://localhost:3000](http://localhost:3000) as follows 
 
-   ### `[npm install](http://localhost:3000)/Pokemon)`
+   ### `http://localhost:3000/Pokemon`
 
 5. Enjoy
 
