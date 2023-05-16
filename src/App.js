@@ -1,24 +1,23 @@
 import React from "react";
-import logo from './logo.svg';
+import Pmanager from './Pmanager';
+import Description from './Description';
+import Nav from './Nav';
 import './App.css';
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          ola
-        </a>
-      </header>
+      <Nav />
+      <React.StrictMode>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Navigate to ="/Pokemon"/>}/>
+            <Route path="/Pokemon" element={<Pmanager/>}></Route>
+            <Route path="/Pokemon/:name" element={<Description/>}></Route>
+          </Routes>
+        </BrowserRouter> 
+      </React.StrictMode>
     </div>
   );
 }

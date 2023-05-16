@@ -41,11 +41,10 @@ function Pokemons(props) {
   } else if (!isLoaded) {
     return (
       <div className="pokeball">
-        <img src={pb} height="20px"/>
+        <img src={pb} alt="img" height="20px"/>
       </div>
     );
   } else {
-    console.log(items)
     return (
       <>
         <div className="col s12 m3">
@@ -60,7 +59,7 @@ function Pokemons(props) {
             </div>
             <div className="card-reveal">
               <span className="card-title grey-text text-darken-4">{items.name}<i className="material-icons right">close</i></span>
-              <p>Here is some more information about this product that is only revealed once clicked on.</p>
+              <p>Base exp. {items.base_experience}</p>
             </div>
           </div>
         </div> 
